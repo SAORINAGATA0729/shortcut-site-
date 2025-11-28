@@ -32,3 +32,4 @@ nextjs-app/
 └── .cursor/         # Cursor設定
     └── mcp.json     # MCPサーバー設定
 ```
+# Force redeploy
