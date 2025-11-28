@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# backup directories
+app-backup/
+components-backup/
+_app-backup/
+_components-backup/
