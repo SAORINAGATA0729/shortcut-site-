@@ -4,7 +4,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import { CTASection } from "@/components/CTASection";
-import { MousePointerClick, FileText, ShieldCheck, Users, BarChart3 } from "lucide-react";
+import { MousePointerClick, FileText, ShieldCheck, Users, BarChart3, Zap } from "lucide-react";
 
 export default function FeaturesPage() {
   const features = [
