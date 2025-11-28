@@ -12,6 +12,10 @@ const notoSansJP = Noto_Sans_JP({
 export const metadata: Metadata = {
   title: "ショートカット - BtoB取引のプロセスを大幅ショートカット",
   description: "リード獲得から商談まで1ヶ月〜2ヶ月かかっていた期間が、1日〜2日に短縮。BtoB取引のプロセス全体をショートカットすることで、事業成長を加速させます。",
+  robots: {
+    index: false,
+    follow: false,
+  },
 };
 
 export default function RootLayout({
